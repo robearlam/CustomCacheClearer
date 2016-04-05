@@ -1,0 +1,1 @@
+A custom Sitecore cache clearer to allow for certain paths to be ignored.
